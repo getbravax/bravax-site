@@ -14,7 +14,7 @@ export default function Hero() {
       </div>
       <div className="flex gap-4">
         <Button variant="outline" size="lg">
-          Schedule a Demo
+          Schedule a Call
         </Button>
       </div>
     </section>

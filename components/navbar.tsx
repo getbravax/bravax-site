@@ -18,6 +18,7 @@ export default function Navbar() {
           <Button variant="ghost" size="sm">
             Contact
           </Button>
+          <Button size="sm">Schedule a Call</Button>
         </div>
       </div>
     </header>
