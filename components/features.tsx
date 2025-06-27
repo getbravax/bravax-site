@@ -1,25 +1,25 @@
-import { Brain, Cloud, Shield, Zap } from "lucide-react"
+import { Check, Clock, XCircle, Users } from "lucide-react"
 
 const features = [
   {
-    name: "AI-Powered Analytics",
-    description: "Harness the power of machine learning to derive actionable insights from your data.",
-    icon: Brain,
+    name: "Built for Financial Trust, Not Inbox Noise",
+    description: "Bravax doesn’t scan for spam — we secure invoice intent at the source, before approval workflows begin.",
+    icon: Check,
   },
   {
-    name: "Cloud-Native Architecture",
-    description: "Scalable, resilient, and efficient solutions built for the modern cloud ecosystem.",
-    icon: Cloud,
+    name: "Real-Time Intervention, Not After-the-Fact Alerts",
+    description: "We act at the moment of send — when trust decisions are made — not after funds are gone.",
+    icon: Clock,
   },
   {
-    name: "Enterprise-Grade Security",
-    description: "State-of-the-art security measures to protect your most valuable assets.",
-    icon: Shield,
+    name: "No Buyer Install Required",
+    description: "Secure delivery happens through our browser-based experience. No disruption to your team, no IT lift.",
+    icon: XCircle,
   },
   {
-    name: "High-Performance Systems",
-    description: "Optimized for speed and efficiency, our solutions deliver unparalleled performance.",
-    icon: Zap,
+    name: "Designed for AP + Security Alignment",
+    description: "Bravax helps finance and security teams speak the same language with audit-ready trust trails.",
+    icon: Users,
   },
 ]
 
@@ -27,7 +27,7 @@ export default function Features() {
   return (
     <section className="container space-y-16 py-24 md:py-32">
       <div className="mx-auto max-w-[58rem] text-center">
-        <h2 className="font-bold text-3xl leading-[1.1] sm:text-3xl md:text-5xl">Cutting-Edge Solutions</h2>
+        <h2 className="font-bold text-3xl leading-[1.1] sm:text-3xl md:text-5xl">What Bravax Does Differently</h2>
         <p className="mt-4 text-muted-foreground sm:text-lg">
           Discover how Bravax can transform your business with our innovative technologies.
         </p>
