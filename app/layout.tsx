@@ -7,9 +7,8 @@ import MouseMoveEffect from "@/components/mouse-move-effect"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Amane Soft - Cutting-Edge Software Solutions",
-  description: "Amane Soft delivers innovative, high-performance software solutions for businesses of the future.",
-    generator: 'v0.dev'
+  title: "Bravax - Advanced Trust Layer for Payments",
+  description: "Bravax, high-performance software solutions for businesses of the future."
 }
 
 export default function RootLayout({
