@@ -6,14 +6,14 @@ import { Github } from "lucide-react"
 export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex h-14 max-w-screen-2xl items-center">
+      <div className="container flex max-w-screen-2xl items-center">
         <Link href="/" className="mr-6 flex items-center space-x-2">
           <Image
             src="/images/SVG_Vector_Files/Transparent_Logo.svg"
             alt="Bravax Logo"
             width={100}
             height={100}
-            className="mx-auto my-2"
+            className="mx-auto"
           />
         </Link>
         <nav className="flex flex-1 items-center space-x-6 text-sm font-medium">
