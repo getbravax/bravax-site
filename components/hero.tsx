@@ -4,7 +4,7 @@ import Image from "next/image"
 
 export default function Hero() {
   return (
-    <section className="container -mt-10 flex min-h-[calc(100vh-3.5rem)] max-w-screen-2xl flex-col items-center justify-center text-center">
+    <section className="container md:-mt-10 flex min-h-[calc(100vh-3.5rem)] max-w-screen-2xl flex-col items-center justify-center text-center">
       <div className="space-y-6">
         <img
           src="/images/SVG_Vector_Files/Transparent_Logo.svg"
