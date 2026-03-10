@@ -5,13 +5,13 @@ export default function CTA() {
     <section className="border-t">
       <div className="container flex flex-col items-center gap-4 py-24 text-center md:py-32">
         <h2 className="font-bold text-3xl leading-[1.1] sm:text-3xl md:text-5xl">
-          Be First to Secure the Moment That Matters Most
+          Replace Blind Trust with Verified Evidence
         </h2>
         <p className="leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-          Invoice fraud is a $2.7B problem — and most companies discover it too late.  
+          9.8% of U.S. revenue is lost to trust failures. 1 in 5 businesses recover nothing.
         </p>
         <p className="leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-          We’re onboarding a limited group of pilot partners to shape this next layer of security.
+          We’re onboarding founding partners to build the trust layer B2B commerce is missing.
         </p>
         <a href="https://calendly.com/kalu-getbravax/30min" target="_blank" rel="noopener noreferrer">
           <Button size="lg" className="mt-4">

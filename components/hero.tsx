@@ -12,13 +12,13 @@ export default function Hero() {
           className="mx-auto md:h-[30rem] -my-10"
         />
         <h2 className="bg-gradient-to-br from-foreground from-30% via-foreground/90 to-foreground/70 bg-clip-text text-3xl lg:text-5xl font-bold tracking-tight text-transparent">
-          Real-Time Payment Trust, Before the Money Moves
+          The B2B Commerce Trust Layer
         </h2>
         <p className="mx-auto max-w-[50rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-          Invoice fraud doesn't wait — and neither should your defenses. Bravax sits between email and AP workflows to verify financial trust <strong>before approvals flow downstream.</strong>  
+          We verify three things before money moves: real business, real information, real documents. Bravax sits between your vendors and your workflows — <strong>enforcing trust across every transaction.</strong>
         </p>
         <p className="mx-auto max-w-[50rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-        No install. No disruption. Just quiet protection at the moment it matters most.
+        No install. No disruption. Verified trust from day one.
         </p>
       </div>
       <div className="flex gap-4 mt-8">
